@@ -17,6 +17,6 @@ The pretrained model(vgg16) can be downloaded at
 
 https://pan.baidu.com/s/1GHX_-vMO9Po2s4TiDsRLGQ with verification code 'nxdy'
 
-The trainset(VT1000, ESSCD and corresponding synthetic thermal images) can be downloaded at
+The trainset(VT1000, ECSSD and corresponding synthetic thermal images) can be downloaded at
 
 https://pan.baidu.com/s/1ZyWrN7NXO3M-45pBT1rflA with verification code '5uge' 
